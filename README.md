@@ -4,7 +4,7 @@ Employee Review System is a web application designed to manage employee reviews 
 
 ## Demo
 
-[Link to Demo](#)
+[Link to Demo](https://employee-system-4paq.onrender.com/sign-up)
 
 ## Features
 
@@ -47,7 +47,12 @@ Employee Review System is a web application designed to manage employee reviews 
    ```
 
    The application should be running on `http://localhost:5000`.
+5. login:
 
+   ```bash
+   email:john.deo@gmail.com
+   pass:123456
+   ```
 ## Usage
 
 - Visit `http://localhost:5000` to access the application.
