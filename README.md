@@ -28,7 +28,7 @@ Employee Review System is a web application designed to manage employee reviews 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/employee-review-system.git
+   git clone https://github.com/Rehan018/employee-review-system.git
    ```
 
 2. Install dependencies:
